@@ -1,0 +1,35 @@
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# ========== IDE ==========
+.idea/
+*.iml
+
+# ========== macOS ==========
+.DS_Store
+
+# ========== Testing / tooling ==========
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ========== Build / packaging ==========
+build/
+dist/
+*.egg-info/
+
+# ========== Jupyter ==========
+.ipynb_checkpoints/
+
+# ========== Env / secrets ==========
+.env
+
+# ========== Altri ==========
+
+requirements.txt
+
