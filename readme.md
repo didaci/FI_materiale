@@ -15,6 +15,12 @@ Corsi di Laurea:
 
 Il materiale didattico (dispense e codice Python) è disponibile tramite questo repository.
 
+Codice Python-> `src`
+
+Slides -> `Slides`
+
+
+
 ### Modalità standard (consigliata)
 
 È possibile scaricare l’intero contenuto tramite file **ZIP**, che include tutti i materiali aggiornati.
